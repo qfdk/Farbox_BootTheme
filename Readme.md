@@ -1,9 +1,25 @@
-###简单说明
-1. 引用了Bootstrap风格
-2. 修改了default v2的风格
-3. 添加了自己的逻辑，左侧的导航栏
+##简单说明
+* 引用了`Bootstrap V2`の风格，个人喜好
+* 重构了default V2中的模板文件保留了原始文件
+* 添加了自己的逻辑，主页分页显示。
+* 沿用了default V2的图片浏览风格未修改
+* 感谢Farbox提供api以及开放的模板
+* 禁止用于商业用途
 
-###有待修改
+##有待修改
 1. Archive 导航栏要分组YYYY-MM比较好【按照月份排序】
 2. Categories 要改成默认的风格重新搞一下分栏
 3. Tags不能用中文标签，否则无法导航（需要修改逻辑，参照post页面有空修改）
+
+##使用说明
+* 复制template文件夹到`xxx.farbox.com`文件夹下
+* 请在`base.html`中修改大标题，默认为 **C'est  quoi le patron de conception** 需要修改的自行修改。
+* 在`configs.html`中可以设置首页出现的文章数目,导航栏的数目对应文章数目。
+* 本人保留所有的解释权。
+
+##写在最后
+* 效果参照本人blog <http://blog.qfdk.me>.
+* Email：<qfdk@hake.cc>
+* 完成于16/11/2013 -22:50
+* Clermont-Ferrand
+* by 清风刀客 
