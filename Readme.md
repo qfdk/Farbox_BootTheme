@@ -1,3 +1,6 @@
+##升级日志
+* 2014-01-22 修复了背景的引用 因为 做了主页文件
+* 待定
 ##简单说明
 * 引用了`Bootstrap V2`の风格，个人喜好
 * 重构了default V2中的模板文件保留了原始文件
@@ -18,7 +21,7 @@
 * 本人保留所有的解释权。
 
 ##写在最后
-* 效果参照本人blog <http://blog.qfdk.me>.
+* 效果参照本人blog <http://qfdk.me>.
 * Email：<qfdk@hake.cc>
 * 完成于16/11/2013 -22:50
 * Clermont-Ferrand
