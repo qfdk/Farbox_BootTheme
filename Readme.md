@@ -25,7 +25,7 @@
 
 ##写在最后
 * 效果参照本人blog <http://qfdk.me>.
-* Email：<qfdk@hake.cc>
+* Email：<qfdk2010@gmail.com>
 * 完成于16/11/2013 -22:50
 * Clermont-Ferrand
 * by 清风刀客 
